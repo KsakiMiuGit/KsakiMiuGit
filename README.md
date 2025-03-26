@@ -1,10 +1,33 @@
--  Hi, I’m @KsakiMiuGit. My name is Karolina Baumert. I'm junior backend developer with a passion for software creation and development in .NET technologies and Python.
--  I’m interested in creating applications in .NET, object-oriented programming, algorithms and AI. 
--  I’m currently learning effective programming in C# and Python, managing databases using SQL and NoSQL, design principles and how machine learning works.
--  I’m excited to connect with organizations seeking .Net or Python backend developer and am looking forward to contributing to innovative projects. I'm open to development, teamwork and learning new skill.
--  Outside of work I'm intrested in handicrafts such as drawing, reading books, taking care of my plants and pet. In free time, I play computer games or go for a walk in forest.
+# 👋 Hi, I'm Karolina Baumert!  
+🎓 Master's student in Computer Science | 💻 Software Engineer | 🚀 Passionate about backend & databases  
 
-<!---
-KsakiMiuGit/KsakiMiuGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Technologies & Skills  
+🔹 **Backend Development**: .NET (C#, ASP.NET, MAUI, Web API, Minimal API), Python (Django, Celery)  
+🔹 **Databases**: MySQL, PostgreSQL, T-SQL, SQLite, MongoDB | Data visualization: Power BI, Excel  
+🔹 **DevOps & Cloud**: Docker, Azure, Git, CI/CD  
+🔹 **Frontend**: HTML, CSS, JavaScript, React, PHP  
+🔹 **Other**: Algorithms & Data Structures, Project Documentation, Testing (unit & integration)  
+
+## 🌟 About Me  
+I'm a passionate Software Engineer with **7+ years of learning and developing skills in Computer Science**.  
+I love **building scalable solutions, optimizing performance, and working with databases**.  
+Currently, I'm pursuing a **Master's degree in Computer Science** and always eager to explore new challenges in backend and cloud development.  
+
+## 📌 Featured Projects  
+🔹 [Hairdresser_Web](https://github.com/KsakiMiuGit/Hairdresser_Web) – Django-based appointment booking system with Google Calendar integration.  
+🔹 [Diary_Web](https://github.com/KsakiMiuGit/Diary_Web) – Web-based diary application with PostgreSQL & Django.  
+🔹 [Quiz_Trivia](https://github.com/KsakiMiuGit/Quiz_Trivia) – Trivia quiz game using Python and external APIs.  
+🔹 [BatteryMonitor](https://github.com/KsakiMiuGit/BatteryMonitor) – C# Windows app monitoring battery level.  
+🔹 [React-Filter-Web](https://github.com/KsakiMiuGit/React-Filter-Web) – League of Legends champions filtering app using React & TypeScript.  
+
+## 📚 Certifications & Courses  
+✔ **Foundational C# with Microsoft Certification Exam** – Microsoft  
+✔ **MongoDB Python Developer** – MongoDB University  
+✔ **Postman API Fundamentals Student Expert** – Postman  
+
+## 📫 Let's Connect!  
+📧 Email: [baumert.karolina@gmail.com](mailto:baumert.karolina@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/karolina-baumert-272835327](https://linkedin.com/in/karolina-baumert-272835327)  
+🚀 GitHub: [github.com/KsakiMiuGit](https://github.com/KsakiMiuGit)  
+
+---
