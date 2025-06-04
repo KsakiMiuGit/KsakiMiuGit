@@ -4,7 +4,7 @@
 ## 🛠️ Technologies & Skills  
 🔹 **Backend Development**: .NET (C#, ASP.NET, MAUI, Web API, Minimal API), Python (Django, Celery)  
 🔹 **Databases**: MySQL, PostgreSQL, T-SQL, SQLite, MongoDB | Data visualization: Power BI, Excel  
-🔹 **DevOps & Cloud**: Docker, Azure, Git, CI/CD  
+🔹 **DevOps & Cloud**: Docker, Azure, Git  
 🔹 **Frontend**: HTML, CSS, JavaScript, React, PHP  
 🔹 **Other**: Algorithms & Data Structures, Project Documentation, Testing (unit & integration)  
 
